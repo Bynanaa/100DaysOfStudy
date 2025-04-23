@@ -14,3 +14,5 @@
 [Начинаем в багбаунти: как найти уязвимость, за которую тебе заплатят](https://www.youtube.com/watch?v=-nl_ie9OiHw): хороший видос очередной раз о самых популярных уязвимостях
 
 [A reason not to worry about wasting life](https://www.youtube.com/watch?v=j97XLVU0A2w): немного philosophy от человека с great hairline перед сном о том, что надо жить, только не с достигаторской позиции
+
+[TryHackMe | Cyber Security Training](https://tryhackme.com/room/vulnerabilities101)
